@@ -26,3 +26,17 @@
       transform: rotate(360deg);
    }
 }
+
+@media(max-width:768px) {
+   .w-1\/2 {
+      width: 77%;
+   }
+
+   #bot {
+      margin-bottom: 22px;
+   }
+
+   .imgif{
+      width: 240px;
+   }
+}
