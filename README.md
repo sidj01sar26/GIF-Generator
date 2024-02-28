@@ -1,7 +1,5 @@
 # GIF-Generator
 
-# GIF-Generator
-
 The "GIF Generator" is a dynamic web tool harnessing the GIPHY API to deliver an endless stream of GIFs. Users can effortlessly explore a myriad of animated content either randomly or by specifying tags, all within an intuitive and visually captivating interface.
 
 ## Key Features
